@@ -6,9 +6,11 @@
 1. Use 1 to 25 different folders for each slot.
 2. Customize change time for each slot.
 3. Manually change images with arrow button.
+4. Resizable
+5. Supports all image formats 
 
 # Installation
-1. Download this repo [https://github.com/marz1877/rainmeter_image_show/archive/refs/heads/main.zip]
+1. Download this repo[https://github.com/marz1877/rainmeter_image_show/archive/refs/heads/main.zip]
 2. Extract it with all files inside a folder.
 3. Move folder under `Rainmeter\Skins\*`.
 4. Load the skin.
